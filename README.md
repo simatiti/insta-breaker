@@ -1,3 +1,4 @@
+![1002059048](https://github.com/user-attachments/assets/150ecac5-9428-40c9-9df0-cfaaf52c1626)
 # Insta-Breaker
 
 Insta-Breaker is a tool designed for automated login attempts on Instagram using a username and a file containing multiple passwords. It is intended for ethical use only, such as testing the security of your own Instagram account.
